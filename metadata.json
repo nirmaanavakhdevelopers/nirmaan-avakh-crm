@@ -1,0 +1,6 @@
+{
+  "name": "Nirmaan Avakh CRM and Portal",
+  "description": "Comprehensive real-time CRM, Inventory, Payment, and Legal tracking dashboard for Nirmaan Avakh Developers, integrated with an interactive Customer Mobile App simulator and Website Lead capture portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,16 @@
+node_modules
+dist
+server.js
+server.js.map
+.env
+.env.local
+.git
+.github
+README.md
+Dockerfile
+cloudbuild.yaml
+.dockerignore
+npm-debug.log
+yarn-error.log
+.vscode
+.idea
